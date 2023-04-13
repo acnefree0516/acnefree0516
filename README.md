@@ -1,16 +1,22 @@
+
+
 ### Hi there 👋
 
-<!--
-**acnefree0516/acnefree0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Talk with me by [Email](mailto:tangjia0516@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏗 **Definitions**
+
+```js
+const JTang = {
+  coding: ["JavaScript", "Python", "HTML5", "CSS3"],
+  technologies: {
+    frontEnd: {
+      web: ["ReactJS"]
+    },
+    backEnd: ["Node", "Express", "Flusk"],
+    databases: ["MySQL", "MongoDB"]
+  }
+}
+```
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/acnefree0516) 
